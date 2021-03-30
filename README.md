@@ -1,3 +1,9 @@
+### Deprecation Notice
+Qontract is now renamed to [Specmatic](https://www.npmjs.com/package/specmatic)
+All new development and bug fixes will be available in Specmatic.
+
+----------
+
 [Qontract](https://qontract.run/) is a contract driven development tool that allows us to turn our contracts into executable specification.
 
 ## Quick Start
